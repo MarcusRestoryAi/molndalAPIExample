@@ -40,6 +40,7 @@ public class Books {
     public Author getAuthor() {
         return author;
     }
+    //kommentar
 
     public void setAuthor(Author author) {
         this.author = author;
